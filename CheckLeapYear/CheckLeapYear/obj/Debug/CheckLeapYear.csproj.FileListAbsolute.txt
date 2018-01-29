@@ -1,0 +1,7 @@
+D:\CodeGym-ThucHanh\CheckLeapYear\CheckLeapYear\bin\Debug\CheckLeapYear.exe.config
+D:\CodeGym-ThucHanh\CheckLeapYear\CheckLeapYear\bin\Debug\CheckLeapYear.exe
+D:\CodeGym-ThucHanh\CheckLeapYear\CheckLeapYear\bin\Debug\CheckLeapYear.pdb
+D:\CodeGym-ThucHanh\CheckLeapYear\CheckLeapYear\obj\Debug\CheckLeapYear.csprojResolveAssemblyReference.cache
+D:\CodeGym-ThucHanh\CheckLeapYear\CheckLeapYear\obj\Debug\CheckLeapYear.csproj.CoreCompileInputs.cache
+D:\CodeGym-ThucHanh\CheckLeapYear\CheckLeapYear\obj\Debug\CheckLeapYear.exe
+D:\CodeGym-ThucHanh\CheckLeapYear\CheckLeapYear\obj\Debug\CheckLeapYear.pdb
